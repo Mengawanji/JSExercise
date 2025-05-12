@@ -9,7 +9,6 @@ function backward(word) {
 
 
 
-
 //Log a countdown from 100, countdown should stop at 0 and print a message
 // ------------------Solution----------------------
 
